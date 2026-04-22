@@ -10,7 +10,7 @@
 
 💻 Web Developer in progress
 🚀 Building web applications
-📚 Learning **Fullstack Development**
+📚 Learning **Back-End Development**
 ⚡ Passionate about programming and technology
 
 ---
