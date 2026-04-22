@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=7F3FBF&size=35&center=true&vCenter=true&width=700&lines=Web+Developer+in+progress;Future+Fullstack+Developer;Building+Web+Applications;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=7F3FBF&size=35&center=true&vCenter=true&width=700&lines=Web+Developer+in+progress;Future+Back-End+Developer;Building+Web+Applications;Always+Learning+New+Things" />
 </p>
 
 ---
