@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=7F3FBF&size=35&center=true&vCenter=true&width=700&lines=Web+Developer+in+progress;Future+Back-End+Developer;Building+Web+Applications;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=7F3FBF&size=35&center=true&vCenter=true&width=700&lines=PHP+Developer+in+progress;Future+Back-End+Developer;Learning+Web+Development;Always+Learning+New+Things" />
 </p>
 
 ---
 
 # 💫 About Me
 
-💻 Web Developer in progress  
-🚀 Building web applications  
-📚 Learning Back-End Development  
-⚡ Passionate about programming and technology  
+💻 Studying Web Development  
+📚 Learning PHP and Back-End  
+🐧 Linux user  
+🐳 Learning Docker  
+⚡ Passionate about technology and programming  
 
 ---
 
@@ -23,67 +24,36 @@
 
 ---
 
-# 📊 GitHub Stats
+# 🚀 Current Focus
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LipeDomareski&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipeDomareski&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
-</p>
+- PHP Fundamentals
+- Logic Programming
+- MySQL
+- Git & GitHub
+- Docker Basics
+- Back-End Development
 
 ---
 
-# 📈 Contribution Graph
+# 📌 Goals
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🚀 Projects
-
-⭐ Soon I will add my best projects here.
-
-### Planned Projects
-
-- 🛒 E-commerce System
-- 🌐 Modern Web Applications
-- ⚙️ Back-End APIs
-- 🔐 Authentication Systems
-- 📦 Dockerized Applications
+- Build real-world projects
+- Learn APIs
+- Create full-stack applications
+- Improve problem solving skills
 
 ---
 
-# 🌐 Socials
+# 🌐 GitHub
 
 <p align="center">
 <a href="https://github.com/SEU_USUARIO">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
-
-<a href="https://linkedin.com/in/SEU_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=7F3FBF&style=for-the-badge"/>
 </p>
 
 ---
 
 <p align="center">
-💜 Always learning and building new things
+💜 Always learning one line of code at a time
 </p>
