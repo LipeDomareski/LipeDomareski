@@ -21,7 +21,6 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,vscode,linux"/>
 </p>
 
----
 
 <!--# 📊 GitHub Stats
 
