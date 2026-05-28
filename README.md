@@ -54,6 +54,12 @@
 
 ---
 
+# 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+---
+
 <p align="center">
 💜 Always learning one line of code at a time
 </p>
