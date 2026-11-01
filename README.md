@@ -73,6 +73,16 @@
   <em>Building, learning, and improving — one project at a time.</em>
 </p>
 
+## 🌙 Night Mode
+
+<p align="center">
+  <img
+    src="./assets/pixel-art.png"
+    width="85%"
+    alt="Pixel art"
+  />
+</p>
+
 <p align="center">
   <a href="https://github.com/LipeDomareski">
     <img src="https://img.shields.io/badge/GitHub-LipeDomareski-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
