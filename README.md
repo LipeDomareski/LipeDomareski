@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./assets/profile-banner.png" width="100%" alt="Felipe Domareski - Software Developer">
+  <img src="./assets/profile-banner.jpg" width="100%" alt="Felipe Domareski - Software Developer">
 </p>
 
 <h1 align="center">Hi 👋, I'm Felipe</h1>
