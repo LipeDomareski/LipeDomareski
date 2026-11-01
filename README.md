@@ -50,10 +50,14 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LipeDomareski&show_icons=true&hide_border=true&title_color=7C3AED&icon_color=56CCF2&text_color=CBD5E1&bg_color=0D1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipeDomareski&layout=compact&hide_border=true&title_color=7C3AED&text_color=CBD5E1&bg_color=0D1117" />
-</p>
+  <img height="165"
+    src="https://github-stats-extended.vercel.app/api?username=LipeDomareski&show_icons=true&hide_border=true&title_color=7C3AED&icon_color=56CCF2&text_color=CBD5E1&bg_color=0D1117"
+  />
 
+  <img height="165"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=LipeDomareski&layout=compact&hide_border=true&title_color=7C3AED&text_color=CBD5E1&bg_color=0D1117"
+  />
+</p>
 ---
 
 ## 🐍 Contribution Snake
