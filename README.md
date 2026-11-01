@@ -49,23 +49,24 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="165"
-    src="https://github-stats-extended.vercel.app/api?username=LipeDomareski&show_icons=true&hide_border=true&title_color=7C3AED&icon_color=56CCF2&text_color=CBD5E1&bg_color=0D1117"
-  />
-
-  <img height="165"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=LipeDomareski&layout=compact&hide_border=true&title_color=7C3AED&text_color=CBD5E1&bg_color=0D1117"
-  />
-</p>
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img
+          src="https://github-stats-extended.vercel.app/api?username=LipeDomareski&show_icons=true&hide_border=true&title_color=7C3AED&icon_color=56CCF2&text_color=CBD5E1&bg_color=0D1117"
+          height="170"
+        />
+      </td>
+      <td>
+        <img
+          src="https://github-stats-extended.vercel.app/api/top-langs/?username=LipeDomareski&layout=compact&hide_border=true&title_color=7C3AED&text_color=CBD5E1&bg_color=0D1117"
+          height="170"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 <p align="center">
